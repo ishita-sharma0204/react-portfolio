@@ -1,0 +1,15 @@
+{
+    "portfolio": [{
+            "cover": "/portfolio/1/one.png",
+            "title": "E-Commerce website",
+            "description": "React, JSX, CSS, NodeJS, ExpressJS, MongoDB",
+            "url": "https://proshopappishita.herokuapp.com/"
+        },
+        {
+            "cover": "/portfolio/1/two.png",
+            "title": "Amazon Clone",
+            "description": "React, JSX, CSS, Firebase, Stripe",
+            "url": "https://clone-c204a.web.app/"
+        }
+    ]
+}
